@@ -12,5 +12,7 @@ This project is inspired by https://github.com/lisist/Jessee_livermore_market_ke
 
 Other than that it closely follows the original
 
+Requires Python 3.8 or greater,pandas, numpy and matplotlib. Other than that no external dependencies.
+
 
 
